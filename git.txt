@@ -1,0 +1,10 @@
+1.first create a repository 
+2.copy the repository code 
+3.open floder 
+4.open git bash
+5.type "git clone (url)"
+6.go to the clone floder 
+7.open git bash here 
+8.type "git add . "
+9.type "git commit -m"any comment" 
+10.typr "git push"
